@@ -1,0 +1,1 @@
+Individual practice problems -- mostly from "Competetive Programming 4" Book 1 Chapters 1-4 by Steven Halim, Felix Halim, and Suhendry Effendy. Some practice problems are also sourced from ICPC Greater New York Regional.
